@@ -23,3 +23,9 @@ Seu serviço deve conter dois endpoints:
 
 
 ### Pattern MVC
+
+
+
+**Para Rodar, utilize:**
+```
+mvn spring-boot:run
